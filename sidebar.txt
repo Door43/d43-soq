@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[soq:home|Door43 (soq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-soq|d43-soq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-soq/archive/master.zip|d43-soq.zip]]
+
+**Recent Changes**
+{{changes>ns = soq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/soq|Ethnologue data]]
+
